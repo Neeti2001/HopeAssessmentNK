@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5318543596775423177
+  m_GuidHigh: 16915537475355509693
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4667079976286028612
+      m_GuidHigh: 1804068066585116067
+    m_SerializedTextureGuid:
+      m_GuidLow: 13728258064360163269
+      m_GuidHigh: 5563155079919715881
+    m_Size: {x: 2.048, y: 2.048}
+    m_SpecifySize: 1
+    m_Name: Penguin1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5671113340740557499
+      m_GuidHigh: 11559798674923561405
+    m_SerializedTextureGuid:
+      m_GuidLow: 8675178520672092536
+      m_GuidHigh: 14463997941982520650
+    m_Size: {x: 2.048, y: 2.048}
+    m_SpecifySize: 1
+    m_Name: Car1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5244051009118669741
+      m_GuidHigh: 8680597519855393686
+    m_SerializedTextureGuid:
+      m_GuidLow: 8643703923481935521
+      m_GuidHigh: 8066414029271218152
+    m_Size: {x: 2.048, y: 2.048}
+    m_SpecifySize: 1
+    m_Name: Robot1
+    m_Texture: {fileID: 0}
